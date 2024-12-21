@@ -1,16 +1,20 @@
-# myapp
+# Atividade 3 - Programa Calculadora na WEB
 
-A new Flutter project.
+## Descrição
 
-## Getting Started
+Este projeto é uma calculadora simples desenvolvida na plataforma Flutter, com o objetivo de realizar operações matemáticas básicas, como soma, subtração, multiplicação e divisão. O aplicativo é voltado para a interface web, sendo acessível através de um navegador.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- **Operações Básicas**: A calculadora suporta operações de adição, subtração, multiplicação e divisão.
+- **Interface Simples**: A interface da calculadora é simples e intuitiva, com botões para cada operação e números.
+- **Design Responsivo**: O layout da calculadora foi projetado para se ajustar bem em diferentes tamanhos de tela, proporcionando uma boa experiência de uso tanto em desktop quanto em dispositivos móveis.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Framework utilizado para desenvolver a aplicação.
+- **Dart**: Linguagem de programação usada no desenvolvimento do Flutter.
+- **Material Design**: Utilizado para o design da interface, proporcionando uma experiência visual moderna e agradável.
+
+## Link para acessor a calculadora:
+https://adryannluiz.github.io/aula.talento.tech/app-calculadora/
